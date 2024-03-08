@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.name {
+  color: white;
+  font-family: 'Roboto';
+}
+.location {
+  color: white;
+}
+
+.but_hover:hover {
+  background-color: green;
+}
+
+.image_sizing {
+  height: 100px;
+  width: 100px;
+}

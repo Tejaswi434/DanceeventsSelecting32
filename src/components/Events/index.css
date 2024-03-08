@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.making_column {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
